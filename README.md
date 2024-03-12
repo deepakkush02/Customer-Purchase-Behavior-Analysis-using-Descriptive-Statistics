@@ -26,7 +26,7 @@
     22. Recency - number of days since the last purchase
 
 > ### Data Visualization
-     Analyze the distribution of customer demographics (age, education, marital status) using descriptive statistics and visualizations.
+Analyze the distribution of customer demographics (age, education, marital status) using descriptive statistics and visualizations.
    
    Distribution Of Education Level
    ![](https://github.com/deepakkush02/Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics/blob/main/Distribution%20Of%20Education%20Level.png)
